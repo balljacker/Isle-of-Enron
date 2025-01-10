@@ -1,7 +1,16 @@
 #World
-#### This is your new home.
+
+###### This is your new home.
+
 ## Locations -
-#### [[Nevrah]]
-#### [[Vorsec]]
+### Northern -
 #### [[Tremirn]]
+
+### Eastern -
+#### [[Nevrah]]
+
+### Southern -
+#### [[Vorsec]]
+
+### Western -
 #### [[Lesgesh]]
