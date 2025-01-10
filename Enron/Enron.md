@@ -2,15 +2,16 @@
 
 ###### This is your new home.
 
-## Locations -
-### Northern -
-#### [[Tremirn]]
+### Locations & Biomes -
+#### Northern -
+##### [[Tremirn]]
 
-### Eastern -
-#### [[Nevrah]]
+#### Eastern -
+##### [[Nevrah]]
 
-### Southern -
-#### [[Vorsec]]
+#### Southern -
+##### [[Vorsec]]
 
-### Western -
-#### [[Lesgesh]]
+#### Western -
+##### [[Lesgesh]]
+
