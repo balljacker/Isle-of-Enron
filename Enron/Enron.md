@@ -4,21 +4,25 @@
 
 ---
 ### Locations :
-#### Northern -
-##### [[Tremirn]]
-#### Eastern -
-##### [[Nevrah]]
-#### Southern -
-##### [[Vorsec]]
-#### Western -
-##### [[Lesgesh]]
+####  Northern -
+#####  [[Tremirn]]
+####  Eastern -
+#####  [[Nevrah]]
+####  Southern -
+#####  [[Vorsec]]
+####  Western -
+#####  [[Lesgesh]]
+
 
 ---
 ### Biomes :
-#### Northern -
+####  Northern -
 
-#### Eastern -
-##### [[Eastern Cascades]]
-#### Southern -
-##### [[South Central Redsands]]
-#### Western -
+####  Eastern -
+#####  [[Eastern Cascades]]
+####  Southern -
+#####  [[South Central Redsands]]
+####  Western -
+
+### Factions :
+#####  Placeholder
