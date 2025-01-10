@@ -1,17 +1,24 @@
 #World
 
-###### This is your new home.
+#### This is your new home.
 
-### Locations & Biomes -
+---
+### Locations :
 #### Northern -
 ##### [[Tremirn]]
-
 #### Eastern -
 ##### [[Nevrah]]
-
 #### Southern -
 ##### [[Vorsec]]
-
 #### Western -
 ##### [[Lesgesh]]
 
+---
+### Biomes :
+#### Northern -
+
+#### Eastern -
+##### [[Eastern Cascades]]
+#### Southern -
+##### [[South Central Redsands]]
+#### Western -
