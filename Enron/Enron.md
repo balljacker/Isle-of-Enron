@@ -19,10 +19,11 @@
 ####  Northern -
 
 ####  Eastern -
-#####  [[Eastern Cascades]]
+#####  [[Eastern Cascades|Cascades]]
 ####  Southern -
-#####  [[South Central Redsands]]
+#####  [[South Central Redsands|Redsands]]
 ####  Western -
 
+---
 ### Factions :
 #####  Placeholder
