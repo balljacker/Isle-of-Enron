@@ -25,6 +25,6 @@ Culturally, Nevrah is a vibrant mix of traditions and practices. The people are 
 
 #### Relations
 
-Nevrah's location in the [[1 Eastern Cascades|Cascades]] gives it a strategic advantage in trade, particularly with settlements in drier regions like the [[2 Southern Redsands|Redsands]]. While the village imports grains and textiles to complement its resources, it remains largely self-sufficient, leveraging its climate-exclusive good to foster connections with neighboring settlements like [[Vorsec]].
+Nevrah's location in the [[1 Eastern Cascades|Cascades]] gives it a strategic advantage in trade, particularly with settlements in drier regions like the [[2 Southern Redsands|Redsands]]. While the village imports grains and textiles to complement its resources, it remains largely self-sufficient, leveraging its climate-exclusive goods to foster connections with neighboring settlements like [[Vorsec]].
 
 Despite its relative isolation, Nevrah is a place of quiet strength and enduring traditions, where every element of life is intertwined with the rhythms of the mountains.
