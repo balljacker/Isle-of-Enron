@@ -1,0 +1,2 @@
+
+i'm thinking only humanoid creatures like NPCs or players can use magic. creatures may be born of a certain type of magic, the [[Ice-Born]] for instance, but may not wield the magic for themselves, just gain a passive infliction or something 
