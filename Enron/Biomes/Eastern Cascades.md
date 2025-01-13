@@ -1,4 +1,4 @@
-#Location #Biome 
+#Biome 
 ##### Silent mountains and quaint valleys. 
 
 holds:

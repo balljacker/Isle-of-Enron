@@ -1,1 +1,1 @@
-#Location #Settlement 
+#Settlement 
