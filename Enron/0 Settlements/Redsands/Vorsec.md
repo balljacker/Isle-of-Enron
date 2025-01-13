@@ -1,5 +1,5 @@
 #Location #Settlement #Outpost
-##### [[Outpost]] within the [[Southern Redsands]] of [[Enron]]
+##### [[Outpost]] within the [[2 Southern Redsands]] of [[Enron]]
 
 
 

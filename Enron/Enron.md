@@ -19,9 +19,9 @@
 ####  Northern -
 
 ####  Eastern -
-#####  [[Eastern Cascades|Cascades]]
+#####  [[1 Eastern Cascades|Cascades]]
 ####  Southern -
-#####  [[Southern Redsands|Redsands]]
+#####  [[2 Southern Redsands|Redsands]]
 ####  Western -
 
 ---
