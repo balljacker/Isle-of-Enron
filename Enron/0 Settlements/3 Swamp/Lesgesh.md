@@ -4,7 +4,7 @@
 Lesgesh is a settlement spread across the murky expanse of the [[3 Western Swamp|Western Swamp]]. Unlike centralized villages, Lesgesh consists of scattered lifted huts and buildings connected by sagging rope bridges. The entire settlement appears to float precariously above the sludge, supported by decaying wooden stilts. However, the decay is deceptive—Lesgesh’s structures remain intact thanks to the **magic organic growth** that weaves through the swamp. Spores drifting in the humid air bind moss, fungus, and rot into a cohesive, unnatural durability.
 
 #### Atmosphere and Spores
-The swamp air is saturated with **[[Lesgesh Spores]]**, a magical phenomenon unique to this region. These spores cling to every surface and even individuals entering the swamp. While harmless to the native [[Fungus Walkers]], the spores affect non-[[Lesgeshians]] over time:
+The swamp air is saturated with **[[Lesgesh Spores]]**, a magical phenomenon unique to this region. These spores cling to every surface and even individuals entering the swamp. While harmless to the native [[Lesgeshians]], the spores affect non-Lesgeshians over time:
 - **Short-Term Effects**: Mild disorientation, coughing, and a faint feeling of unease.
 - **Long-Term Effects**: Prolonged exposure leads to hallucinations, extreme fatigue, and eventual fungal growth on the skin, which can result in permanent corruption or death.
 

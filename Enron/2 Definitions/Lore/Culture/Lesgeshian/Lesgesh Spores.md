@@ -18,4 +18,4 @@ The **Lesgesh Spores** are a magical, airborne phenomenon that saturates the [[3
   - Visible fungal growth on the skin, leading to eventual corruption or death if untreated.
 
 #### Immunity
-The native [[Fungus Walkers]] have adapted to the spores over generations. Their immune systems and possibly their connection to the [[Fungus Walkers]] have rendered them unaffected by the spores' harmful effects.
+The native Lesgeshians have adapted to the spores over generations. Their immune systems and possibly their connection to the [[Fungus Walkers]] have rendered them unaffected by the spores' harmful effects.

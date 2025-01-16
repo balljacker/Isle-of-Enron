@@ -1,5 +1,5 @@
-#Biome
-
+ #Biome
+ 
 #### Overview
 The **Western Swamp** is a dark and foreboding region of [[Enron]], characterized by its dense, magical fog, pervasive humidity, and murky waters. This biome is the home of [[Lesgesh]] and is shaped by its unique ecosystem and the omnipresent **[[Lesgesh Spores]]**.
 
@@ -10,7 +10,7 @@ The **Western Swamp** is a dark and foreboding region of [[Enron]], characterize
 
 #### Inhabitants
 - **[[Fungus Walkers]]**: Magical mutations that roam the swamp, adding to its danger.
-- **Native Lesgeshians**: Reclusive and hostile to outsiders, these people live in harmony with the swamp’s magic.
+- **Native [[Lesgeshians]]**: Reclusive and hostile to outsiders, these people live in harmony with the swamp’s magic.
 
 #### Challenges
 - **Spore Saturation**: Prolonged exposure to the [[Lesgesh Spores]] is deadly to those unadapted, making it difficult for outsiders to remain for long.

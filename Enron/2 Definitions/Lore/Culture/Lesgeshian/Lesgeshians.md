@@ -21,7 +21,7 @@ The **Lesgeshians** are humanoid, bipedal reptiles who have acclimated to the sp
 #### Roles
 - **[[Lesgeshian Hunters|Hunters]]**: Skilled in tracking and capturing swamp creatures for food and materials.
 - **[[Lesgeshian Gatherers|Gatherers]]**: Collect herbs, fungi, and swamp resources for sustenance and rituals.
-- **[[Lesgeshian Shamans|Shamans]]**: Spiritual leaders who commune with the swamp’s magic, interpreting signs from the [[Lesgesh Spores]] and [[Fungus Walkers]].
+- **[[Lesgeshian Shaman|Shaman]]**: Spiritual leaders who commune with the swamp’s magic, interpreting signs from the [[Lesgesh Spores]] and [[Fungus Walkers]].
 
 #### Relations
 - **With Outsiders**: Distrustful and hostile, they repel intruders with traps, ambushes, and misdirection in the swamp.
