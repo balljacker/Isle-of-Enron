@@ -17,12 +17,13 @@
 ---
 ### Biomes :
 ####  Northern -
-
+##### [[0 Northern Plains|Plains]]
 ####  Eastern -
-#####  [[1 Eastern Cascades|Cascades]]
+##### [[1 Eastern Cascades|Cascades]]
 ####  Southern -
-#####  [[2 Southern Redsands|Redsands]]
+##### [[2 Southern Redsands|Redsands]]
 ####  Western -
+##### [[3 Western Swamp|Swamp]]
 
 ---
 ### Factions :
