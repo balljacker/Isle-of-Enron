@@ -1,4 +1,4 @@
-#Location #Biome
+#Biome
 
 #### Overview
 The **Western Swamp** is a dark and foreboding region of [[Enron]], characterized by its dense, magical fog, pervasive humidity, and murky waters. This biome is the home of [[Lesgesh]] and is shaped by its unique ecosystem and the omnipresent **[[Lesgesh Spores]]**.

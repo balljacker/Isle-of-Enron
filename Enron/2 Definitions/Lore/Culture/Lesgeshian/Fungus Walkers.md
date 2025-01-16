@@ -10,8 +10,8 @@ The **Fungus Walkers** are a magical mutation that has become synonymous with th
 
 #### Behavior
 - Wander aimlessly through the swamp, drawn to disturbances in the fog or spores.
-- React aggressively to outsiders but are generally passive toward the native [[Lesgeshians]].
+- React aggressively to outsiders but are generally neutral toward the native [[Lesgeshians]].
 - Capable of spreading the [[Lesgesh Spores]] further, infecting and converting new hosts over time.
 
 #### Origins
-The Fungus Walkers are believed to be the result of prolonged spore exposure to creatures within the swamp. As the spores take hold, the host’s body becomes overtaken by fungal growth, eventually animating as a walker. Some [[Lesgeshians]] consider them sacred or a natural extension of the swamp’s magic, while others fear and avoid them.
+The Fungus Walkers are believed to be the result of prolonged spore exposure to creatures within the swamp. As the spores take hold, the host’s body becomes overtaken by fungal growth, eventually animating as a walker. The [[Lesgeshians]] see them as a natural extension of the swamp’s cycle, neither fearing nor interfering with them unless necessary.
