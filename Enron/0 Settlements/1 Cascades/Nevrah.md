@@ -22,6 +22,9 @@ Culturally, Nevrah is a vibrant mix of traditions and practices. The people are 
 
 #### Religion
 
+Nevrah's people offer seasonal prayers to mountain spirits they believe watch
+over the Cascades. Small shrines carved into cliff walls hold talismans of
+wood and stone, and travelers often leave offerings to ensure safe passage.
 
 #### Relations
 

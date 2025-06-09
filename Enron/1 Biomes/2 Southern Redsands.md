@@ -1,6 +1,9 @@
 #Biome
 
-##### A rougher side of [[Enron]]. A humid expanse of exposed rock and particulate sand.
+#### Overview
+The **Southern Redsands** are a sun-scorched desert dotted with tall mesas and crimson dunes. Sparse oases and narrow canyons hide surprising pockets of life.
 
-holds:
-[[Vorsec]]
+#### Features
+- Shifting dunes make landmarks unreliable, confounding travelers without a guide.
+- Rich deposits of quartz and iron attract miners and opportunists alike.
+- Temperatures swing from sweltering days to freezing nights, challenging settlers such as those of [[Vorsec]].
