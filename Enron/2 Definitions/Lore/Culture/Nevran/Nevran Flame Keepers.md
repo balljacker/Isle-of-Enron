@@ -1,6 +1,3 @@
+#Professions
 
-Might change the name
-
-they assist with fire in the frigid environment
-
-while out in the cold, they must consciously keep their magic running idle to avoid a temperature shock to the nervous system. this goes for most fire users
+"Flame Keepers" maintain hearths and forges in Nevrah. They wield fire magic with precision, keeping constant embers alive so sudden heat doesn't shock their own nervous systems. Many accompany caravans to provide warmth in the cold passes.
